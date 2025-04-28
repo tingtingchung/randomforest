@@ -5,4 +5,4 @@ Dr. Rachel Chung's teaching materials on RandomForest.
 [AI Generated Song: Lost in Random Forest](https://www.udio.com/songs/vaJm6jQFps8MpvfWsLN8jR)  
 
 Fun Read  
-[Yeon & Wilber. The Random Forest Algorithm. Machine Learning University by Amazon.] (https://mlu-explain.github.io/random-forest/)  
+[Yeon & Wilber. The Random Forest Algorithm. Machine Learning University by Amazon.](https://mlu-explain.github.io/random-forest/)  
